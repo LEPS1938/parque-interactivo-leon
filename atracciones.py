@@ -4,3 +4,4 @@ atracciones = [
     'Casa del Terror',
     'Río Lento'
 ]
+atracciones_antiguas = ['Rueda de la Fortuna', 'Caballitos']
